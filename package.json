@@ -1,0 +1,16 @@
+{
+  "name": "super",
+  "version": "1.0.0",
+  "description": "Generate groceries list out of the calendar of meals.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rodrigo Rodrigues",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "electron": "^17.0.0"
+  }
+}
