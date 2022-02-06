@@ -1,6 +1,6 @@
 // main.js
 
-// Modules to control application life and create native browser window
+// Modules to control application life and create native browser window 
 const { app, BrowserWindow } = require('electron')
 const path = require('path')
 
